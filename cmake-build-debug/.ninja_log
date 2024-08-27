@@ -1,0 +1,8 @@
+# ninja log v6
+8	295	7464200231185533	CMakeFiles/untitled1.dir/main.c.obj	f7db8ac2f0f12c0c
+257	458	7464202772961939	untitled1.exe	7eb2c204e8c70a07
+2	379	7464205422786754	build.ninja	742aac477958f9e7
+2	119	7464202162614302	CMakeFiles/untitled1.dir/leapYear.c.obj	1947dfdf2047dc12
+2	256	7464202770413401	CMakeFiles/untitled1.dir/Laboratorio1/leapYear.c.obj	7646b539a155a99f
+6	361	7464205843110473	CMakeFiles/untitled1.dir/Laboratorio1/factorial.c.obj	34169b95a9a84fb3
+33	239	7464206177931034	CMakeFiles/untitled1.dir/Laboratorio1/factorial.c.obj	34169b95a9a84fb3
