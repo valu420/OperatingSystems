@@ -12,14 +12,14 @@ int esPar(int numero) {
 int main() {
     int numero;
 
-    printf("Ingresa un número: ");
+    printf("Ingresa un numero: ");
     scanf("%d", &numero);
 
     // Llama a la función esPar y muestra el resultado
     if (esPar(numero)) {
-        printf("%d es un número par.\n", numero);
+        printf("%d es un numero par.\n", numero);
     } else {
-        printf("%d es un número impar.\n", numero);
+        printf("%d es un numero impar.\n", numero);
     }
 
     return 0;
