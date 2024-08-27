@@ -4,7 +4,7 @@
 void fibonacci(int n) {
     int t1 = 0, t2 = 1, siguienteTermino;
 
-    printf("Sucesión de Fibonacci:\n");
+    printf("Sucesion de Fibonacci:\n");
 
     for (int i = 1; i <= n; ++i) {
         printf("%d, ", t1);
@@ -18,7 +18,7 @@ void fibonacci(int n) {
 int main() {
     int n;
 
-    printf("¿Cuántos términos de la sucesión de Fibonacci deseas?: ");
+    printf("¿Cuantos terminos de la sucesion de Fibonacci deseas?: ");
     scanf("%d", &n);
 
     // Llamar a la función fibonacci para mostrar la sucesión
