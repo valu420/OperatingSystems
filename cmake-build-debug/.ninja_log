@@ -1,8 +1,13 @@
 # ninja log v6
 8	295	7464200231185533	CMakeFiles/untitled1.dir/main.c.obj	f7db8ac2f0f12c0c
-257	458	7464202772961939	untitled1.exe	7eb2c204e8c70a07
-2	379	7464205422786754	build.ninja	742aac477958f9e7
+170	430	7464236255170762	untitled1.exe	861cb897995395d4
+2	379	7464246511517310	build.ninja	742aac477958f9e7
 2	119	7464202162614302	CMakeFiles/untitled1.dir/leapYear.c.obj	1947dfdf2047dc12
-2	256	7464202770413401	CMakeFiles/untitled1.dir/Laboratorio1/leapYear.c.obj	7646b539a155a99f
-6	361	7464205843110473	CMakeFiles/untitled1.dir/Laboratorio1/factorial.c.obj	34169b95a9a84fb3
-33	239	7464206177931034	CMakeFiles/untitled1.dir/Laboratorio1/factorial.c.obj	34169b95a9a84fb3
+17	456	7464240504537536	CMakeFiles/untitled1.dir/Laboratorio1/recursion.c.obj	5b6ac1498a8fe773
+7	384	7464240504437589	CMakeFiles/untitled1.dir/Laboratorio1/leapYear.c.obj	7646b539a155a99f
+7	169	7464236253540028	CMakeFiles/untitled1.dir/Laboratorio1/factorial.c.obj	34169b95a9a84fb3
+24	464	7464250070679101	CMakeFiles/untitled1.dir/Laboratorio1/evenOrOdd.c.obj	ee6ee583a0a81f10
+34	467	7464250070779049	CMakeFiles/untitled1.dir/Laboratorio1/fibonacci.c.obj	80ae604067bd2a77
+11	477	7464250070559270	CMakeFiles/untitled1.dir/Laboratorio1/recursion.c.obj	5b6ac1498a8fe773
+8	159	7464251090816237	CMakeFiles/untitled1.dir/Laboratorio1/factorial.c.obj	34169b95a9a84fb3
+22	164	7464251090946199	CMakeFiles/untitled1.dir/Laboratorio1/fibonacci.c.obj	80ae604067bd2a77

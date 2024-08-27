@@ -61,6 +61,24 @@ build CMakeFiles/untitled1.dir/Laboratorio1/factorial.c.obj: C_COMPILER__untitle
   OBJECT_DIR = CMakeFiles\untitled1.dir
   OBJECT_FILE_DIR = CMakeFiles\untitled1.dir\Laboratorio1
 
+build CMakeFiles/untitled1.dir/Laboratorio1/recursion.c.obj: C_COMPILER__untitled1_unscanned_Debug C$:/Users/Valu/CLionProjects/untitled1/Laboratorio1/recursion.c || cmake_object_order_depends_target_untitled1
+  DEP_FILE = CMakeFiles\untitled1.dir\Laboratorio1\recursion.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled1.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled1.dir\Laboratorio1
+
+build CMakeFiles/untitled1.dir/Laboratorio1/evenOrOdd.c.obj: C_COMPILER__untitled1_unscanned_Debug C$:/Users/Valu/CLionProjects/untitled1/Laboratorio1/evenOrOdd.c || cmake_object_order_depends_target_untitled1
+  DEP_FILE = CMakeFiles\untitled1.dir\Laboratorio1\evenOrOdd.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled1.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled1.dir\Laboratorio1
+
+build CMakeFiles/untitled1.dir/Laboratorio1/fibonacci.c.obj: C_COMPILER__untitled1_unscanned_Debug C$:/Users/Valu/CLionProjects/untitled1/Laboratorio1/fibonacci.c || cmake_object_order_depends_target_untitled1
+  DEP_FILE = CMakeFiles\untitled1.dir\Laboratorio1\fibonacci.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled1.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled1.dir\Laboratorio1
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target untitled1
@@ -69,7 +87,7 @@ build CMakeFiles/untitled1.dir/Laboratorio1/factorial.c.obj: C_COMPILER__untitle
 #############################################
 # Link the executable untitled1.exe
 
-build untitled1.exe: C_EXECUTABLE_LINKER__untitled1_Debug CMakeFiles/untitled1.dir/Laboratorio1/leapYear.c.obj CMakeFiles/untitled1.dir/Laboratorio1/factorial.c.obj
+build untitled1.exe: C_EXECUTABLE_LINKER__untitled1_Debug CMakeFiles/untitled1.dir/Laboratorio1/leapYear.c.obj CMakeFiles/untitled1.dir/Laboratorio1/factorial.c.obj CMakeFiles/untitled1.dir/Laboratorio1/recursion.c.obj CMakeFiles/untitled1.dir/Laboratorio1/evenOrOdd.c.obj CMakeFiles/untitled1.dir/Laboratorio1/fibonacci.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\untitled1.dir
