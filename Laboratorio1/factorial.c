@@ -4,11 +4,11 @@ int main() {
     int numero;
     unsigned long long factorial = 1;
 
-    printf("Ingresa un número para calcular su factorial: ");
+    printf("Ingresa un numero para calcular su factorial: ");
     scanf("%d", &numero);
 
     if (numero < 0) {
-        printf("El factorial no está definido para números negativos.\n");
+        printf("El factorial no esta definido para numeros negativos.\n");
     }
     else {
 
